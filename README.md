@@ -47,8 +47,11 @@ I am a **Frontend Developer** specializing in building **responsive, scalable, a
 
 ## 📊 GitHub Stats
 
-![Kishore's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kishore771&show_icons=true&theme=react)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kishore771&layout=compact&theme=react)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kishore771&show_icons=true&theme=react&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishore771&layout=compact&theme=react&hide_border=true" height="165" />
+</p>
+
 
 ---
 
