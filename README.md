@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile.png" alt="Kishore Gundelli" width="180" style="border-radius: 50%;" />
+  <img src="profile.jpg" alt="Kishore Gundelli" width="180" style="border-radius: 50%;" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Kishore Gundelli</h1>
