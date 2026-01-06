@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="profile.jpg" alt="Kishore Gundelli" width="380" style="border-radius: 100%;" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Kishore Gundelli</h1>
 <h3 align="center">Frontend Developer | React.js | UI Engineer</h3>
 
