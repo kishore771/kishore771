@@ -1,21 +1,25 @@
 <p align="center">
-  <img src="profile.jpg" alt="Kishore Gundelli" width="280" style="border-radius: 80%;" />
+  <img src="profile.png" alt="Kishore Gundelli" width="380" style="border-radius: 100%;" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Kishore Gundelli</h1>
 <h3 align="center">Frontend Developer | React.js | UI Engineer</h3>
 
+<p align="center">
+  Building clean, responsive, and recruiter-ready web interfaces
+</p>
+
 ---
 
 ## 👨‍💻 About Me
 
-I am a **Frontend Developer** specializing in building **responsive, scalable, and user-friendly web applications** using modern frontend technologies.
+I am a **Frontend Developer** focused on building **scalable, user-friendly, and modern web applications** using React and JavaScript.
 
 - 💻 Strong in **HTML, CSS, JavaScript (ES6+)**
-- ⚛️ Experienced with **React.js & component-based architecture**
+- ⚛️ Experienced in **React.js & component-based architecture**
 - 🎯 Actively seeking **Frontend / React Developer roles**
-- 🚀 Focused on writing **clean, maintainable, and reusable UI code**
-- 📈 Continuously improving through **projects and hands-on practice**
+- 🚀 Focused on **clean UI, performance, and maintainable code**
+- 📈 Learning continuously through **real-world projects**
 
 ---
 
@@ -38,10 +42,10 @@ I am a **Frontend Developer** specializing in building **responsive, scalable, a
 
 | Project | Description | Tech |
 |-------|------------|------|
-| **Task Management App** | Role-based task handling with clean UI | React |
-| **Job Application Tracker** | Track job applications & status | React, LocalStorage |
+| **Task Management App** | Role-based task management with clean UI | React |
+| **Job Application Tracker** | Track job applications and status | React, LocalStorage |
 | **Portfolio Website** | Recruiter-focused personal portfolio | React, CSS |
-| **Product Management UI** | CRUD-based product interface | React |
+| **Product Management App** | CRUD-based product UI | React |
 
 ---
 
@@ -52,16 +56,15 @@ I am a **Frontend Developer** specializing in building **responsive, scalable, a
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishore771&layout=compact&theme=react&hide_border=true" height="165" />
 </p>
 
-
 ---
 
 ## 🎯 What I Bring to a Team
 
-- ✅ Strong understanding of **frontend fundamentals**
-- ✅ Experience building **real-world React applications**
-- ✅ Focus on **UI consistency & responsiveness**
-- ✅ Ability to convert designs into working interfaces
-- ✅ Willingness to learn and adapt quickly
+- ✅ Strong frontend fundamentals
+- ✅ Hands-on experience with React projects
+- ✅ UI-first mindset with responsiveness
+- ✅ Ability to convert designs into code
+- ✅ Quick learner and team-friendly developer
 
 ---
 
@@ -69,10 +72,11 @@ I am a **Frontend Developer** specializing in building **responsive, scalable, a
 
 - 💼 LinkedIn: https://www.linkedin.com/in/g-kishore-g-78579432b/
 - 🧑‍💻 GitHub: https://github.com/kishore771
-- Instagram : https://www.instagram.com/im_kishore_117/?next=%2F
+- Instagram : https://www.instagram.com/im_kishore_117/
 
 ---
 
 ## ⚡ Fun Fact
-I enjoy transforming **complex UI requirements** into **simple, intuitive user experiences** 🎨💻
+I enjoy turning **complex UI requirements** into **simple, intuitive user experiences** 🎨💻
+
 
