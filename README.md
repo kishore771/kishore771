@@ -69,6 +69,7 @@ I am a **Frontend Developer** specializing in building **responsive, scalable, a
 
 - 💼 LinkedIn: https://www.linkedin.com/in/g-kishore-g-78579432b/
 - 🧑‍💻 GitHub: https://github.com/kishore771
+- Instagram : https://www.instagram.com/im_kishore_117/?next=%2F
 
 ---
 
